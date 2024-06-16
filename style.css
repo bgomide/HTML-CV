@@ -1,0 +1,20 @@
+h1 {
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+#profile{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+;
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#education{ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#skills {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#language {
+    font-size: medium;
+}
